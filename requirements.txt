@@ -1,1 +1,6 @@
 streamlit
+langchain_openai
+langchain_community
+lxml
+bs4
+faiss-cpu
